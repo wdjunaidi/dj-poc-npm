@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "Wirianto Djunaidi"
+  },
+  "dependencies": {},
+  "description": "A Test Package for testing how npm package and git dependencies",
+  "devDependencies": {},
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "dj-poc-npm",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdjunaidi/dj-poc-npm.git"
+  },
+  "scripts": {
+    "test": "node test/hello.js"
+  },
+  "version": "1.0.1"
+}
